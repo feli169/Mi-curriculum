@@ -1,0 +1,16 @@
+.box1{
+    background-color: lightblue;
+}
+.box2{
+    background-color: white;
+
+}
+.box3{
+    background-color: blueviolet;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 50px;
+    color: yellow;
+    font-size: 20px;
+    border-bottom: 50px solid cyan;
+}
